@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>fakhrads</title>
+    <link>/</link>
+    <description>Recent content on fakhrads</description>
+    <image>
+      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Dec 2021 18:04:15 +0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>/posts/hello-world.html</link>
+      <pubDate>Mon, 20 Dec 2021 18:04:15 +0700</pubDate>
+      
+      <guid>/posts/hello-world.html</guid>
+      <description>My first code when i learn every language
+Python print(&amp;quot;Hello World&amp;quot;) Dart void main() { print(&#39;Hello, World!&#39;); } JavaScript console.log(&amp;quot;Hello World!); TypeScript console.log(&amp;quot;Hello World!); PHP &amp;lt;?php echo(&amp;quot;Hello World!&amp;quot;) ?&amp;gt; Java class Fakhrads { public static void main(String[ ] args) { System.out.println(&amp;quot;Hello World!&amp;quot;); } } </description>
+    </item>
+    
+  </channel>
+</rss>
